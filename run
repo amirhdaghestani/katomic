@@ -1,0 +1,1 @@
+g++ -I/Home/Documents/Projects/Homeworks/5.KAtomic main.cpp field.cpp levelset.cpp menu.cpp -Wall -Wno-narrowing -o a.out && ./a.out
